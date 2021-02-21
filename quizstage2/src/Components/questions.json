@@ -1,0 +1,18 @@
+[
+    {
+           "question": "Which is the only mammal that can’t jump?",
+           "optionA": "Dog",
+           "optionB": "Elephant",
+           "optionC": "Goat",
+           "optionD": "Lion",
+           "answer": "Elephant"
+       },
+       {
+        "question": "How many Number of planets are there in our solar system? ",
+        "optionA": 9,
+        "optionB": 10,
+        "optionC": 11,
+        "optionD": 12,
+        "answer": 9
+        }
+   ]
