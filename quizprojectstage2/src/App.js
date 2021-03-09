@@ -6,7 +6,7 @@ import ResultComponent from './Components/ResultComponent';
 import { Component } from 'react';
 function App() {
   return (
-    <div className="App">
+    <div class="App">
       <QuizComponent/>
     </div>
   );

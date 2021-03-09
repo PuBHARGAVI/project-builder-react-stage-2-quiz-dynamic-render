@@ -81,7 +81,7 @@ align-items: center;
 .blue-button{
   width: 400px;
   height: 50px;
-  background-color:blue;
+  background-color:#1c7eda;
   color: white;
 }
 .greenbackground-button{
@@ -147,4 +147,19 @@ button{
 #green{
   margin-top: 130px;
   color: green;
+}
+#questionStyle{
+  font-family: serif;
+  font-size: xx-large;
+}
+.flex{
+  width: 100%;
+  display: flex;
+  margin-left: 40px;
+}
+#questionno{
+  align-self: flex-start;
+}
+#questionname{
+  align-self: flex-end;
 }

@@ -7,7 +7,7 @@ class ResultComponent extends React.Component {
         return (
             <div>    
                 <h1 id="green">Result</h1>
-            <div class="White-Container1">
+            <div className="White-Container1">
                 <h2 align="center">You need more practice!</h2>
                 <h1 id="score" align="center">Your Score:20%</h1>
                 <p align="left" id="left">Total Number of questions:</p>
